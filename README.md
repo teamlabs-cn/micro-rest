@@ -1,6 +1,10 @@
 # micro-rest
 resource-based, mini framework for web api
 
+# Install
+
+`go get github.com/teamlabs-cn/micro-rest/rest`
+
 # Samples
 
 ### Definie resource
